@@ -11,4 +11,5 @@ Parts used:
 * SSD1306 - 0.96" OLED Display
 
 Wiring:
-TBD
+
+Wiring diagram comes here (SOON)
