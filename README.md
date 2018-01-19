@@ -12,4 +12,4 @@ Parts used:
 
 Wiring:
 
-Wiring diagram comes here (SOON)
+![Wiring Diagram](weather-station_bb.png)
